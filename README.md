@@ -32,3 +32,13 @@ GitHub tem um tutorial básico de instalação, incluindo alguns temas básicos 
 
 ## 5 Criei um programa que calcule o peso ideal de uma pessoa. Para isso utilize as fórmulas da tabela:
 ## Sua aplicação deve identificar se a pessoa é Homem ou Mulher e então fazer o cálculo apropriado. Deve ser impresso se a pessoa é homem ou mulher, juntamente com o peso ideal calculado.
+
+## --------------------------------------------------
+
+## 6 Um nutricionista está precisando de uma ajuda para calcular o IMC de seus pacientes. Para calcular o IMC ele passou a seguinte fórmula: IMC = peso / ( altura )². Crie um programa que faça o cálculo do IMC de uma pessoa (ele deve ser impresso na tela) e classifique o IMC dessa pessoa de acordo com a tabela (também deverá ser impresso):
+
+## ---------------------------------------------------
+
+## 7 Uma loja de móveis está com dificuldades de calcular algumas condições de pagamento de seus móveis. Eles possuem algumas regras e o seu trabalho é implementar uma aplicação que faça os cálculos de acordo com as regras:
+
+## 8 Faça a concatenação dos códigos numéricos conforme o exemplo acima e ao final imprima qual a palavra formada. Após fazer a aplicação, pesquise por códigos ASCI
